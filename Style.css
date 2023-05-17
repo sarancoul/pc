@@ -21,11 +21,11 @@
 #gauche{
     width: 35%;
     height: auto;
-    background-color: var(--bleu);
+    background-color: violet;
     color: #fff;
 }
 .image img{
-    border: 1px solid var(--bleuClaire);
+    border: 1px solid green;
     height: 164px;
     width: 164px;
     border-radius: 50%;
